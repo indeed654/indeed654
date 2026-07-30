@@ -240,7 +240,7 @@ Nexus Rail is an enterprise-grade metro operations platform designed to centrali
 
 </a>
 
-<a href="YOUR_REPOSITORY">
+<a href="https://github.com/indeed654/ATS-Recruitment-System.git">
 
 <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"/>
 
@@ -313,7 +313,7 @@ A complete performance management platform that streamlines employee lifecycle m
 
 </a>
 
-<a href="YOUR_PMS_REPOSITORY">
+<a href="0https://github.com/indeed654/pms-ats-dashboard.git">
 
 <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"/>
 
@@ -792,25 +792,25 @@ I enjoy building projects that focus on:
 
 <div align="center">
 
-<a href="YOUR_PORTFOLIO">
+<a href="https://yashsharmadigital.netlify.app/">
 
 <img src="https://img.shields.io/badge/Portfolio-Visit-F97316?style=for-the-badge"/>
 
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/yash-sharma-914641326">
 
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:yash1047sharma@gmail.com">
 
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 
 </a>
 
-<a href="YOUR_RESUME">
+<a href="https://dry-field-21.linkyhost.com">
 
 <img src="https://img.shields.io/badge/Resume-Download-16A34A?style=for-the-badge"/>
 
