@@ -464,36 +464,24 @@ Continuous Improvement
 - New York Jobs CEO Council Programs
 
 ---
-
 # GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=indeed654&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=indeed654&show_icons=true&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indeed654&layout=compact&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indeed654&layout=compact&hide_border=true"/>
 
 </p>
 
-<br>
+## Contributions
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=indeed654&hide_border=true"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=indeed654&limit=5&hide=B&combine_all_yearly_contributions=true"/>
 
 </p>
 
----
-
-# Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=indeed654&hide_border=true"/>
-
-</p>
-
----
 
 # Open Source
 
@@ -526,35 +514,43 @@ Some principles I try to follow include:
 
 ---
 
-# Connect
+# Contact
 
-<p>
+<p align="left">
 
-Portfolio<br>
-https://yashsharmadigital.netlify.app/
+<a href="mailto:yash1047sharma@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/yash-sharma-914641326">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/indeed654">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://yashsharmadigital.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-F97316?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<a href="https://dry-field-21.linkyhost.com">
+<img src="https://img.shields.io/badge/Resume-Download-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white">
+</a>
 
 </p>
 
-<p>
+**Email**
 
-LinkedIn<br>
-https://linkedin.com/in/yash-sharma-914641326
+> **yash1047sharma@gmail.com**
 
-</p>
-
-<p>
-
-GitHub<br>
-https://github.com/indeed654
-
-</p>
-
+---
 ---
 
 <div align="center">
 
-Thank you for visiting my profile.
+**Thanks for visiting my GitHub profile.**
 
-I'm always interested in collaborating on meaningful projects, discussing technology, and exploring opportunities in Full Stack Development, Artificial Intelligence, and Data Analytics.
+I'm always interested in collaborating on enterprise software, Artificial Intelligence, Full Stack Development, and Data Analytics projects.
 
 </div>
