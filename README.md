@@ -1,152 +1,308 @@
-<!-- ████████ CYBERPUNK SYSTEM INTERFACE ████████ -->
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=2600&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=YASH+KUMAR+SHARMA;INDEED654;AI+SYSTEMS+ENGINEER;DESIGNING+INTELLIGENT+ARCHITECTURES" />
-</h1>
+# ⚡ YASH KUMAR SHARMA
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F7FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ENGINE-NEURAL-FF00FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STATE-SHIPPING-0AFF9D?style=for-the-badge"/>
-</p>
+### AI Engineer • Full Stack Developer • Data Analytics Enthusiast
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2800&pause=800&color=FF6B00&center=true&vCenter=true&width=900&lines=Building+Enterprise+Software;AI+Systems+Developer;Full+Stack+Engineer;Data+Analytics+Projects;Always+Learning+Always+Building" />
 
-```bash
-> initializing core...
-> user: indeed654
-> loading stacks: ai / iot / distributed
-> injecting context...
-> system stable ✔
-```
+<br>
+
+![](https://komarev.com/ghpvc/?username=indeed654&style=for-the-badge&color=orange)
+
+![](https://img.shields.io/github/followers/indeed654?style=for-the-badge)
+
+![](https://img.shields.io/github/stars/indeed654?style=for-the-badge)
+
+</div>
 
 ---
 
-## 🧠 CORE ARCHITECTURE
+# 🚀 Engineering Profile
 
 ```yaml
-identity: Yash Kumar Sharma
-alias: indeed654
-role: AI Systems Engineer
-education: B.Tech CSE (IoT) — AKTU
-philosophy: "build systems, not just features"
-execution_style:
-  - rapid prototyping
-  - iterative optimization
-  - production-first thinking
+Name: Yash Kumar Sharma
+
+Role:
+  - AI Engineer
+  - Full Stack Developer
+  - Data Analytics Enthusiast
+
+Education:
+  B.Tech Computer Science (IoT)
+
+Current Focus:
+  - Enterprise Software
+  - Artificial Intelligence
+  - Data Analytics
+  - Backend Engineering
+
+Mission:
+  Build software that solves real-world problems
+  through scalable architecture and modern UI.
 ```
 
 ---
 
-## ⚙️ TECHNOLOGY SURFACE
+# 🏗 Featured Enterprise Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,tailwind,mongodb,docker,git,tensorflow,pytorch" />
-</p>
+## 🚆 Nexus Rail
 
----
+> AI Powered Metro Operations Platform
 
-## 🧩 ACTIVE SYSTEMS (LIVE MODULES)
+```
+✔ AI Insights
 
-### 🏠 Smart Home Automation
+✔ Digital Twin
 
-```diff
-+ distributed device control layer
-+ sensor-triggered execution engine
-+ real-time monitoring pipeline
+✔ Fleet Monitoring
+
+✔ Operations Dashboard
+
+✔ Resource Management
+
+✔ Analytics
+
+✔ Enterprise UI
 ```
 
-<p align="center">
-  <img src="https://via.placeholder.com/900x420/0d1117/00f7ff?text=SMART+HOME+SYSTEM" width="720"/>
-</p>
-
 ---
 
-### 🔐 Decentralized IP System
+## 📊 Performance Management System
 
-```diff
-+ blockchain-backed ownership ledger
-+ trustless validation mechanism
-+ tamper-proof record system
+> Enterprise HR Management Platform
+
+```
+✔ Employee Management
+
+✔ Attendance
+
+✔ Leave Management
+
+✔ Goals
+
+✔ KRAs
+
+✔ Performance Reviews
+
+✔ Analytics Dashboard
 ```
 
-<p align="center">
-  <img src="https://via.placeholder.com/900x420/0d1117/ff00ff?text=DECENTRALIZED+SYSTEM" width="720"/>
-</p>
-
 ---
 
-### 📄 Resume Analyzer (AI)
+## 🎓 EduGenie AI
 
-```diff
-+ semantic parsing via NLP
-+ ML-driven scoring pipeline
-+ feedback generation engine
+> AI Powered Learning Platform
+
+```
+✔ AI Learning Assistant
+
+✔ Student Dashboard
+
+✔ Course Management
+
+✔ Analytics
+
+✔ Progress Tracking
+
+✔ Responsive Design
 ```
 
-<p align="center">
-  <img src="https://via.placeholder.com/900x420/0d1117/0aff9d?text=AI+RESUME+ENGINE" width="720"/>
+---
+
+# ⚙ Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=ts"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
 </p>
 
 ---
 
-## 📊 SYSTEM TELEMETRY
+## Frontend
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=indeed654&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indeed654&theme=tokyonight&hide_border=true&background=0D1117" height="165"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=angular"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
 </p>
 
 ---
 
-## 🐍 EXECUTION TRACE
+## Backend
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/indeed654/indeed654/output/github-contribution-grid-snake-dark.svg" />
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<img src="https://skillicons.dev/icons?i=spring"/>
+
 </p>
 
 ---
 
-## 🧠 SIGNAL STREAM
+## AI & Analytics
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4200&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Architecture+scales%2C+code+changes;Ship+fast%2C+refine+faster;Systems+over+syntax;From+idea+to+deployment" />
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+
+<img src="https://skillicons.dev/icons?i=sklearn"/>
+
+<img src="https://skillicons.dev/icons?i=pandas"/>
+
 </p>
 
 ---
 
-## 🌌 PORTAL ACCESS
+## Tools
 
-<p align="center">
-  <a href="https://yash-ai-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/ENTER%20SYSTEM-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
-  </a>
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
 </p>
 
 ---
 
-## 🤝 NETWORK CHANNELS
+# 📈 Engineering Metrics
+
+| Projects | APIs | Dashboards | Deployments |
+|----------:|----:|-----------:|------------:|
+| 15+ | 40+ | 12+ | 20+ |
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://linkedin.com/in/yash-sharma-914641326">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
-  </a>
-  <a href="mailto:yash1047sharma@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
-  </a>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=indeed654&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=indeed654&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indeed654&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-```bash
-> runtime loop
+# 🐍 Contribution Graph
 
-while(alive){
-  learn();
-  build();
-  deploy();
-  scale();
-}
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/indeed654/indeed654/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💡 Engineering Principles
+
+- Clean Architecture
+- SOLID Principles
+- Scalable Systems
+- AI-first Development
+- Secure Backend Design
+- Modern UI/UX
+- Performance Optimization
+- Production-ready Code
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+
+<a href="YOUR_PORTFOLIO">
+
+<img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge"/>
+
+</a>
+
+<a href="YOUR_LINKEDIN">
+
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+<a href="YOUR_RESUME">
+
+<img src="https://img.shields.io/badge/Resume-success?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+---
+
+```cpp
+class SoftwareEngineer {
+
+public:
+
+    void career(){
+
+        while(true){
+
+            Learn();
+
+            Build();
+
+            Deploy();
+
+            Improve();
+
+        }
+
+    }
+
+};
 ```
 
-<!-- ████████ END OF SYSTEM ████████ -->
+<div align="center">
+
+### ⭐ "Turning ideas into scalable software."
+
+</div>
