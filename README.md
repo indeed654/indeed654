@@ -249,25 +249,25 @@ Mission:
 
 <p align="center">
 
-<a href="YOUR_PORTFOLIO">
+<a href="https://yashsharmadigital.netlify.app/">
 
 <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge"/>
 
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="linkedin.com/in/yash-sharma-914641326">
 
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:yash1047sharma@gmail.com">
 
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 
 </a>
 
-<a href="YOUR_RESUME">
+<a href="https://dry-field-21.linkyhost.com">
 
 <img src="https://img.shields.io/badge/Resume-success?style=for-the-badge"/>
 
