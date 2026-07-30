@@ -632,3 +632,190 @@ I enjoy solving business problems through technology by combining:
 Every project I build is an opportunity to improve architecture, user experience, and scalability.
 
 ---
+<!-- ========================================================= -->
+<!--                  GITHUB INTELLIGENCE HUB                  -->
+<!-- ========================================================= -->
+
+# 📊 GitHub Intelligence Dashboard
+
+> Open-source activity, coding consistency, and repository insights.
+
+---
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=indeed654&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=indeed654&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indeed654&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=indeed654&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=indeed654&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/indeed654/indeed654/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📌 Development Focus
+
+| Area | Current Focus |
+|------|---------------|
+| 🤖 AI Engineering | Building practical AI-powered applications |
+| 🌐 Full Stack | Enterprise dashboards and scalable APIs |
+| 📊 Data Analytics | Python, Power BI, SQL, visualization |
+| ☕ Java Backend | Spring Boot, REST APIs, clean architecture |
+| ☁ Cloud | Deployment and modern DevOps workflows |
+
+---
+
+# 📚 Currently Exploring
+
+- Retrieval-Augmented Generation (RAG)
+- LangChain & AI agents
+- Machine Learning workflows
+- Spring Boot microservices
+- Dashboard architecture
+- Power BI storytelling
+- System design fundamentals
+- Docker-based deployment
+
+---
+
+# 🛠 Development Workflow
+
+```text
+Research
+   │
+   ▼
+Architecture
+   │
+   ▼
+Design
+   │
+   ▼
+Development
+   │
+   ▼
+Testing
+   │
+   ▼
+Deployment
+   │
+   ▼
+Iteration
+```
+
+---
+
+# 🌱 Open Source Mindset
+
+I enjoy building projects that focus on:
+
+- Production-ready architecture
+- Clean and maintainable code
+- User-centric interfaces
+- AI-powered experiences
+- Practical business solutions
+- Continuous improvement
+
+---
+
+# 🎯 Current Priorities
+
+```text
+🚆 Nexus Rail Platform
+
+████████████████████░ 80%
+
+📊 Performance Management System
+
+███████████████████░░ 75%
+
+🎓 EduGenie AI
+
+██████████████████░░░ 70%
+
+📈 Data Analytics Portfolio
+
+█████████████████░░░░ 65%
+
+🤖 AI Engineering Projects
+
+████████████████░░░░░ 60%
+```
+
+> These bars represent **current personal focus**, not proficiency scores.
+
+---
+
+# 💬 Engineering Philosophy
+
+> "Good software isn't measured by the number of frameworks it uses—it's measured by how effectively it solves real problems, how maintainable it remains over time, and how well it serves its users."
+
+---
+
+# 📬 Let's Connect
+
+<div align="center">
+
+<a href="YOUR_PORTFOLIO">
+
+<img src="https://img.shields.io/badge/Portfolio-Visit-F97316?style=for-the-badge"/>
+
+</a>
+
+<a href="YOUR_LINKEDIN">
+
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+<a href="YOUR_RESUME">
+
+<img src="https://img.shields.io/badge/Resume-Download-16A34A?style=for-the-badge"/>
+
+</a>
+
+</div>
+
+---
