@@ -819,3 +819,109 @@ I enjoy building projects that focus on:
 </div>
 
 ---
+<!-- ========================================================= -->
+<!--                     ENGINEERING MANIFESTO                 -->
+<!-- ========================================================= -->
+
+# 🚀 Engineering Manifesto
+
+> I believe software should solve meaningful problems, scale gracefully, and provide an exceptional user experience.
+
+Every project I build follows the same principles:
+
+- 🏗 Design scalable architectures
+- ⚡ Optimize performance before complexity
+- 🎨 Create intuitive user experiences
+- 🔒 Prioritize security from the start
+- 🤖 Integrate AI where it creates real value
+- 📊 Use data to drive decisions
+- 📚 Learn continuously and improve relentlessly
+
+---
+
+# 🌍 Current Journey
+
+```text
+2023 ───────────── Started Professional Development
+
+        │
+
+2024 ───────────── Full Stack Development
+
+        │
+
+2025 ───────────── Enterprise Applications
+
+        │
+
+2026 ───────────── AI • Analytics • Scalable Platforms
+
+        │
+
+Next ───────────── Building Products Used by Thousands
+```
+
+---
+
+# 📌 Repository Spotlight
+
+### 🚆 Nexus Rail
+AI-powered enterprise metro operations platform featuring analytics dashboards, operational intelligence, and modern UI.
+
+### 📊 Performance Management System
+Enterprise HR platform for attendance, KRAs, goals, reviews, and performance analytics.
+
+### 🎓 EduGenie AI
+AI-powered learning ecosystem focused on personalized education and student insights.
+
+---
+
+# 📖 Favorite Technologies
+
+<div align="center">
+
+Java • Python • TypeScript • React • Angular • Node.js • Spring Boot • MySQL • Docker • TensorFlow • Power BI
+
+</div>
+
+---
+
+# 📬 Connect
+
+<div align="center">
+
+<a href="https://github.com/indeed654">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💬 Quote
+
+> *"Great software isn't built by chasing technologies—it's built by understanding problems and engineering elegant solutions."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=120&section=footer"/>
+
+### Thanks for visiting my profile 👋
+
+⭐ If you like my work, consider exploring my repositories or connecting with me.
+
+</div>
